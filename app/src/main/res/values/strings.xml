@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OnbardingWalkThroughScreens</string>
+
+    <string name="slider_heading1">FirstSlider</string>
+    <string name="slider_heading2">SecondSlider</string>
+    <string name="slider_heading3">ThirdSlider</string>
+
+    <string name="slider_desc1">Lorem ipsum dolor sit amet, nec velit repudiare euripidis no, rebum sanctus nam no, ius ullum officiis at. Novum facete te sea. Eu per nisl complectitur. Quodsi disputationi mea an, duo rebum soluta petentium ei, ex percipitur intellegam quo. Cu eum ullum splendide definitiones.</string>
+    <string name="slider_desc2">Lorem ipsum dolor sit amet, nec velit repudiare euripidis no, rebum sanctus nam no, ius ullum officiis at. Novum facete te sea. Eu per nisl complectitur. Quodsi disputationi mea an, duo rebum soluta petentium ei, ex percipitur intellegam quo. Cu eum ullum splendide definitiones.</string>
+    <string name="slider_desc3">Lorem ipsum dolor sit amet, nec velit repudiare euripidis no, rebum sanctus nam no, ius ullum officiis at. Novum facete te sea. Eu per nisl complectitur. Quodsi disputationi mea an, duo rebum soluta petentium ei, ex percipitur intellegam quo. Cu eum ullum splendide definitiones.</string>
+
+</resources>
